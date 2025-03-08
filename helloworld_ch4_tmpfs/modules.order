@@ -1,0 +1,1 @@
+/home/bagira/linux_rpi4_drivers/helloworld_ch4_tmpfs/helloworld_rpi4.o

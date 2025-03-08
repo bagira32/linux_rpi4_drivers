@@ -1,0 +1,1 @@
+savedcmd_/home/bagira/linux_rpi4_drivers/ch5_platform_device/hellokeys_rpi4.mod := printf '%s\n'   hellokeys_rpi4.o | awk '!x[$$0]++ { print("/home/bagira/linux_rpi4_drivers/ch5_platform_device/"$$0) }' > /home/bagira/linux_rpi4_drivers/ch5_platform_device/hellokeys_rpi4.mod

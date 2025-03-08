@@ -1,0 +1,1 @@
+savedcmd_/home/bagira/linux_rpi4_drivers/helloworld_ch4_miscdevice/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/bagira/linux_rpi4_drivers/helloworld_ch4_miscdevice/Module.symvers -T /home/bagira/linux_rpi4_drivers/helloworld_ch4_miscdevice/modules.order -i Module.symvers -e 

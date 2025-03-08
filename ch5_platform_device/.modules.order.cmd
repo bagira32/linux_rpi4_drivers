@@ -1,0 +1,1 @@
+savedcmd_/home/bagira/linux_rpi4_drivers/ch5_platform_device/modules.order := {   echo /home/bagira/linux_rpi4_drivers/ch5_platform_device/hellokeys_rpi4.o; :; } > /home/bagira/linux_rpi4_drivers/ch5_platform_device/modules.order
