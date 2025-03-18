@@ -1,0 +1,1 @@
+savedcmd_/home/bagira/linux_rpi4_drivers/ch5_rgb_platform/ledRGB_rpi4_platform.mod := printf '%s\n'   ledRGB_rpi4_platform.o | awk '!x[$$0]++ { print("/home/bagira/linux_rpi4_drivers/ch5_rgb_platform/"$$0) }' > /home/bagira/linux_rpi4_drivers/ch5_rgb_platform/ledRGB_rpi4_platform.mod

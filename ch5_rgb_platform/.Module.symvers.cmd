@@ -1,0 +1,1 @@
+savedcmd_/home/bagira/linux_rpi4_drivers/ch5_rgb_platform/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/bagira/linux_rpi4_drivers/ch5_rgb_platform/Module.symvers -T /home/bagira/linux_rpi4_drivers/ch5_rgb_platform/modules.order -i Module.symvers -e 
